@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\bin\Debug\frmResistorCalc.exe.config
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\bin\Debug\frmResistorCalc.exe
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\bin\Debug\frmResistorCalc.pdb
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.Form1.resources
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.Properties.Resources.resources
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.exe
+C:\Users\Julian\source\repos\frmResistorCalc\frmResistorCalc\obj\Debug\frmResistorCalc.pdb
